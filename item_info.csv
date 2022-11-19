@@ -1,36 +1,36 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2021-08-24 09:07:15
-item-10,Dummy Core,6544
-item-31,Basic Training Data,1044
-item-32,Intermediate Training Data,1066
-item-33,Advanced Training Data,1067
+item-10,Dummy Core,6825
+item-31,Basic Training Data,1260
+item-32,Intermediate Training Data,1902
+item-33,Advanced Training Data,1413
 -1,kalina_level,29
--1,kalina_favor,122110
-item-1,T-Doll Contract,58
-item-2,Equipment Contract,210
-item-3,Quick Production Contract,54
-item-4,Quick Repair Contract,1219
+-1,kalina_favor,122735
+item-1,T-Doll Contract,56
+item-2,Equipment Contract,105
+item-3,Quick Production Contract,154
+item-4,Quick Repair Contract,1282
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,1
-item-8,Quick Training Contract,5
-item-9,Enhancement Capsule,2381
+item-8,Quick Training Contract,8
+item-9,Enhancement Capsule,2510
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,2
-item-14,Original Sample,59
-item-15,Pure Sample,30
-item-16,Quick Analysis Contract,15
-item-17,Data Patch,31
-item-41,Token,3320
+item-14,Original Sample,9
+item-15,Pure Sample,14
+item-16,Quick Analysis Contract,9
+item-17,Data Patch,23
+item-41,Token,3506
 item-43,Black Card,1
-item-44,Calibration Ticket,28
-item-45,Memory Fragment,5441
-item-46,Special Combat Report,3107
+item-44,Calibration Ticket,433
+item-45,Memory Fragment,7161
+item-46,Special Combat Report,3351
 item-47,Theater Material,9
-item-50,Universal Parts,1482
-item-51,New Type Fire-Control Component,27
+item-50,Universal Parts,1222
+item-51,New Type Fire-Control Component,29
 item-53,Gachapon Ticket,0
-item-100,Elite Griffin Combat Medal,2
+item-100,Elite Griffin Combat Medal,3
 item-101,Combat Ranking Medal,34
 item-103,Challenger Medal,8
 item-104,Elite Adventurer Medal,2
@@ -46,26 +46,26 @@ item-305,Central Data: AT4,0
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,0
-item-506,Battery,8110
-item-507,Surplus EXP,935794
-item-508,Friendship Points,18510
-item-509,Fairy Command,107
+item-506,Battery,685
+item-507,Surplus EXP,960000
+item-508,Friendship Points,19830
+item-509,Fairy Command,200
 item-510,Combat Sim Extra Energy,20
-item-512,Supernova Kernel,780
-item-513,Dark Star Kernel,8125
-item-514,Petri Dish,1178
-item-515,Basic Training Keycode,9300
-item-516,Advanced Training Keycode,1161
+item-512,Supernova Kernel,800
+item-513,Dark Star Kernel,9525
+item-514,Petri Dish,1574
+item-515,Basic Training Keycode,12741
+item-516,Advanced Training Keycode,2232
 item-517,Specified Equipment Contract,0
-item-519,HOC General Data,19
+item-519,HOC General Data,22
 item-524,Goliath Projectile,1
-item-525,Quick Auto-Battle Contract,520
+item-525,Quick Auto-Battle Contract,552
 item-601,Infinite Surprise Dye,5
 item-602,Colorful Specified Dye,0
 item-603,Potential Energy,0
-item-604,Electronic Impulse,1
-item-605,Aid Commission,36
-item-606,Transfer Catalyst,48
+item-604,Electronic Impulse,5
+item-605,Aid Commission,37
+item-606,Transfer Catalyst,83
 item-1001,AAT-52 Icon,1
 item-1002,G43 Icon,1
 item-1003,IDW Icon,1
@@ -216,6 +216,9 @@ item-1914,ID: Cozy Tatami,1
 item-1915,Background: Birthplace of Dreams,1
 item-1916,Background: Promised Dream Hotel,1
 item-1930,Architect - Type NVW Icon,1
+item-1941,Icon: Valiant Knight,1
+item-1942,Icon: Wild Hunt,1
+item-1943,Icon: Messenger of Loss,1
 item-1944,Icon: Moth on a Leaf,1
 item-1945,Icon: Betrayal of Righteousness,1
 item-1946,Icon: Each Searching A Corner,1
@@ -224,6 +227,7 @@ item-1948,ID Card: Through The Fire And The Flames,1
 item-1949,ID Card: The Storm Comes,1
 item-1950,ID Card: Fireworks Night,1
 item-1951,ID Card: Fatal Bullet,1
+item-1952,ID Card: Bloodstained Rider,1
 item-1953,ID Card: Moment of Conclusion,1
 item-1954,Background: Lazy Afternoon,1
 item-1990,Icon: Pink Eye of Enthrallment,1
@@ -265,7 +269,7 @@ item-8002,Intel Points,0
 item-8003,Intel Points,0
 item-9005,Supply Box,0
 item-10603,Extra Potential Energy,0
-item-10604,Extra Impulse,9
+item-10604,Extra Impulse,13
 item-100040,True Core Mask - 4th Anniversary,0
 item-100044,4th Anniversary Costume Voucher,0
 item-100045,4th Anniversary Special Supply Box,0
@@ -286,9 +290,10 @@ item-100097,Star Marker,0
 item-100098,Nova Medal – My Devil's Frontline,0
 item-100099,Platinum Medal – My Devil's Frontline,3
 item-100100,Token of Life,10
-item-100101,Supply Crate: Poincarre Recurrence,30
-item-100102,Nova Medal: Poincarre Recurrence,168
-item-100103,Platinum Medal: Poincarre Recurrence,36
+item-100101,Supply Crate: Poincarre Recurrence,0
+item-100102,Nova Medal: Poincarre Recurrence,552
+item-100103,Platinum Medal: Poincarre Recurrence,64
+item-100104,True Core Mask: Poincarre Recurrence,0
 item-100108,Strange Soap,180
 item-100109,Nova Medal - Freaky Pandemic,1
 item-100110,Platinum Medal - Freaky Pandemic,2
@@ -302,13 +307,14 @@ item-100123,Xmas Coin,40
 item-100124,Nova Medal - One Coin Short,1
 item-100125,Platinum Medal - One Coin Short,3
 item-100160,Butterfly Mirage,10
-item-100161,Nova Medal - Butterfly in a Cocoon,95
-item-100162,Platinum Medal - Butterfly in a Cocoon,66
+item-100161,Nova Medal - Butterfly in a Cocoon,0
+item-100162,Platinum Medal - Butterfly in a Cocoon,1
 item-110018,Event Points,2800
 item-110019,Event Points,3000
 item-110020,Event Points,2590
 item-110021,Event Points,2600
 item-110039,Event Points,10879709
+item-110043,Event Points,5260000
 item-110044,Event Points,5157294
 item-900036,Crown of Respect,0
 item-900037,Nova Medal·DJMAX,0
@@ -322,19 +328,14 @@ item-900044,Platinum Medal·Far Side of the Sea,2
 item-900045,Azure Conch,0
 item-1100007,Corona Fusion,1
 item-1100008,Corona Fusion,1
-item-1941,Icon: Valiant Knight,1
-item-1943,Icon: Messenger of Loss,1
-item-1942,Icon: Wild Hunt,1
-item-1952,ID Card: Bloodstained Rider,1
-gift-5505,Lily's Reverie,1
 gift-5803,Out of Darkness,1
 gift-7408,Bouquet for the Galaxy,1
 gift-100001,Lollipop,77
 gift-100002,Ice Cream Cone,34
-gift-100003,Strawberry Custard Cheesecake,2692
+gift-100003,Strawberry Custard Cheesecake,2750
 gift-100005,Mulan Tea,20
-gift-200001,Combat Report,660
-gift-400001,Rapid Growth Disk,1141
+gift-200001,Combat Report,2237
+gift-400001,Rapid Growth Disk,2294
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
 furniture-10310,Integrated Canine Care Station,10
